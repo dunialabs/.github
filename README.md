@@ -12,14 +12,14 @@ At Dunia Labs, we are focused on two core questions:
 
 ## Peta
 
-**Peta** is infrastructure for production AI: an operations and permissions layer that developers can integrate directly into their existing stacks.
+Peta is infrastructure for production AI: an MCP vault and gateway that gives developers a unified operations and permissions layer for running agents safely in real environments.
 
 → [peta.io](https://peta.io)
 
 ### Repositories
 
-- **peta-core** — Core runtime and gateway
-- **peta-desk** — Desktop client for Peta
+- **peta-core** — Core vault, runtime, and gateway 
+- **peta-desk** — Human-in-the-loop desktop client
 - **mcp-servers** — Production-ready MCP server implementations
 
 ---
